@@ -1,0 +1,18 @@
+/*
+Author: Bob Rein
+File name: home.css
+Date Created: 1/25/19
+*/
+body {
+  background-color: lightblue;
+}
+
+h1 {
+  color: white;
+  text-align: center;
+}
+
+p {
+  font-family: verdana;
+  font-size: 20px;
+}

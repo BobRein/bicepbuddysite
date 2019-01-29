@@ -3,16 +3,19 @@ Author: Bob Rein
 File name: home.css
 Date Created: 1/25/19
 */
-body {
-  background-color: lightblue;
-}
 
-h1 {
-  color: white;
-  text-align: center;
+.tinyFont{
+  font-size: 10px;
 }
-
-p {
-  font-family: verdana;
-  font-size: 20px;
+.allCols{
+  width:100%;
+}
+.centerCol{
+  background-color: blue;
+}
+.rightCol{
+  background-color: green;
+}
+.leftCol{
+  background-color: red;
 }

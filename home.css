@@ -10,12 +10,16 @@ Date Created: 1/25/19
 .allCols{
   width:100%;
 }
-.centerCol{
+.redBack{
   background-color: blue;
 }
-.rightCol{
+.blueBack{
   background-color: green;
 }
-.leftCol{
+.greenBack{
   background-color: red;
+}
+.container-full {
+  margin: 0 auto;
+  width: 100%;
 }

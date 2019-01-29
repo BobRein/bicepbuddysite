@@ -23,3 +23,9 @@ Date Created: 1/25/19
   margin: 0 auto;
   width: 100%;
 }
+.noTopMargin{
+  margin-top: -100px;
+}
+#body{
+  background-color: #afafaf;
+}
